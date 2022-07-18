@@ -1,11 +1,14 @@
 body {
     background-color: #37789e;
+    padding: 5%;
 }
 
 P {
     color: white;
+    font-family: 'comic sans', Courier, monospace;
 }
 
 h1 {
     color: white;
+    font-family: 'comic sans', Courier, monospace;
 }
